@@ -3,3 +3,7 @@
 ### Responsive Web Design
 ![Free Code Camp Responsive Web Design](https://www.freecodecamp.org/certification/laurentiucozma12/responsive-web-design)  
 ## Udemy
+### Html
+![Html certifications](https://github.com/laurentiucozma12/Certifications/blob/master/Files/HTML%20-%20Certification.pdf)
+### HTML, CSS, & JavaScript
+![HTML, CSS, & JavaScript - Certification](https://github.com/laurentiucozma12/Certifications/blob/master/Files/HTML%2C%20CSS%2C%20%26%20JavaScript%20-%20Certification%20Course.pdf)
