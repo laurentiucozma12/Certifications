@@ -3,8 +3,8 @@
     - [Responsive Web Design](#responsive-web-design)
 - [Udemy](#udemy)
     - [HTML](#html)
-    - [HTML, CSS, && JavaScript](#html-css-and-javascript) 
-    - [JavaScript && jQuery](#javascript-and-jquery)
+    - [HTML CSS and JavaScript](#html-css-and-javascript) 
+    - [JavaScript and jQuery](#javascript-and-jquery)
 ## Free Code Camp
 ### Responsive Web Design
 ![Free Code Camp Responsive Web Design](https://github.com/laurentiucozma12/Certifications/blob/master/Files/Free%20Code%20Camp%20-%20Responsive%20Web%20Design.png)  
