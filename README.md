@@ -5,5 +5,7 @@
 ## Udemy
 ### Html
 ![Html - Certification](https://github.com/laurentiucozma12/Certifications/blob/master/Files/HTML%20-%20Certification.png)
-### HTML, CSS, & JavaScript
-![HTML, CSS, & JavaScript - Certification](https://github.com/laurentiucozma12/Certifications/blob/master/Files/HTML%2C%20CSS%2C%20%26%20JavaScript%20-%20Certification%20Course.png)
+### HTML, CSS, && JavaScript
+![HTML, CSS, && JavaScript - Certification](https://github.com/laurentiucozma12/Certifications/blob/master/Files/HTML%2C%20CSS%2C%20%26%20JavaScript%20-%20Certification%20Course.png)
+### JavaScript && jQuery
+![JavaScript && jQuery - Certification]()
