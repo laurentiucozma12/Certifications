@@ -8,4 +8,4 @@
 ### HTML, CSS, && JavaScript
 ![HTML, CSS, && JavaScript - Certification](https://github.com/laurentiucozma12/Certifications/blob/master/Files/HTML%2C%20CSS%2C%20%26%20JavaScript%20-%20Certification%20Course.png)
 ### JavaScript && jQuery
-![JavaScript && jQuery - Certification]()
+![JavaScript && jQuery - Certification](https://github.com/laurentiucozma12/Certifications/blob/master/Files/jQuery.jpg)
