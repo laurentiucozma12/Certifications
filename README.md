@@ -17,4 +17,4 @@
 ### JavaScript and jQuery
 ![JavaScript && jQuery](https://github.com/laurentiucozma12/Certifications/blob/master/Files/jQuery.jpg)
 ### Build Complete Blog System With Laravel 8 (Upgraded Laravel 9)
-![Build Complete Blog System With Laravel 8 (Upgraded Laravel 9)]()
+![Build Complete Blog System With Laravel 8 (Upgraded Laravel 9)](https://github.com/laurentiucozma12/Certifications/blob/master/Files/Build%20Complete%20Blog%20System%20With%20Laravel%208%20(Upgraded%20Laravel%209).jpg)
