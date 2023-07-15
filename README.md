@@ -1,5 +1,5 @@
 # Certifications Preview
-- [Build Complete Blog System With Laravel 8 - Upgraded Laravel 9](#Build-Complete-Blog-System-With-Laravel-8---Upgraded-Laravel-9)
+- [Build Complete Blog System With Laravel 8 - Upgraded Laravel 9](#build-complete-blog-system-with-laravel-8---upgraded-laravel-9)
 - [JavaScript and jQuery](#javascript-and-jquery)
 - [HTML CSS and JavaScript](#html-css-and-javascript) 
 - [HTML](#html)
