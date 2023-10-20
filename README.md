@@ -1,9 +1,14 @@
 # Certifications Preview
 - [Build Complete Blog System With Laravel 8 - Upgraded Laravel 9](#build-complete-blog-system-with-laravel-8---upgraded-laravel-9)
+- Get Started With Laravel - Envato Tuts+
+- Object Oriented PHP - Dani Krossing
+- Learn PHP Objects and Classes - codeacademy.com
 - [JavaScript and jQuery](#javascript-and-jquery)
 - [HTML CSS and JavaScript](#html-css-and-javascript) 
-- [HTML](#html)
 - [Responsive Web Design](#responsive-web-design)
+- Learn CSS - codeacademy.com
+- Learn HTML - codeacademy.com
+- [HTML](#html)
 ### Build Complete Blog System With Laravel 8 - Upgraded Laravel 9
 ![Build Complete Blog System With Laravel 8 - Upgraded Laravel 9](https://github.com/laurentiucozma12/Certifications/blob/master/Files/Build%20Complete%20Blog%20System%20With%20Laravel%208%20(Upgraded%20Laravel%209).jpg)
 ### JavaScript and jQuery
