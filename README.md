@@ -1,4 +1,5 @@
 # Certifications Preview
+- Learn SQL - codeacademy.com
 - [Build Complete Blog System With Laravel 8 - Upgraded Laravel 9](#build-complete-blog-system-with-laravel-8---upgraded-laravel-9)
 - Get Started With Laravel - Envato Tuts+
 - Object Oriented PHP - Dani Krossing
