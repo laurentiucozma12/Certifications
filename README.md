@@ -12,9 +12,9 @@
 - Learn HTML - codeacademy.com
 - [HTML](#html)
 
-### FullStack Developer - Nenos Academy
+### FullStack Developer Nenos Academy
 
-![FullStack Developer - Nenos Academy](https://github.com/user-attachments/assets/b4ea9686-7ae2-4e34-ab76-bf3fc3ec69bb)
+![FullStack Developer Nenos Academy](https://github.com/user-attachments/assets/b4ea9686-7ae2-4e34-ab76-bf3fc3ec69bb)
 
 ### Build Complete Blog System With Laravel 8 - Upgraded Laravel 9
 
